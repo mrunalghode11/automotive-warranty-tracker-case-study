@@ -9,7 +9,7 @@
 Most PM case studies are built from imagination.
 This one is built from 12 months of real frontline
 experience at a leading customer support organisation,
-handling warranty escalations for a major Indian
+handling warranty escalations for a major USA
 automotive OEM every single day.
 
 I didn't read about this problem in a blog post.
@@ -20,7 +20,7 @@ I lived it. 50+ times a day.
 ## 1. My Background on This Problem
 
 During my time supporting customers of a major
-Indian automotive OEM, I noticed a pattern that
+USA automotive OEM, I noticed a pattern that
 repeated itself every single day:
 
 - Customers called angry about warranty coverage
