@@ -349,5 +349,5 @@ supporting customers of a major automotive OEM.*
 Every insight is real. Every number is observed.
 Every solution is designed around actual constraints.*
 
-*📧 Connect: [Add your LinkedIn URL]*
+*📧 Connect: www.linkedin.com/in/mrunal-ghode*
 *🔗 Portfolio: github.com/mrunalghode11*
